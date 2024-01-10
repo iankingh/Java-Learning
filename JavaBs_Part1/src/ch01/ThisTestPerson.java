@@ -1,3 +1,5 @@
+package JavaBs_Part1.src.ch01;
+
 
 class Person {
     private String name;

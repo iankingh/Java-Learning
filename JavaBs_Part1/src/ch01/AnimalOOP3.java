@@ -1,3 +1,5 @@
+package JavaBs_Part1.src.ch01;
+
 public class AnimalOOP3 {
     
     public static void main(String[] args) {

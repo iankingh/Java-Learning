@@ -1,3 +1,5 @@
+package JavaBs_Part1.src.ch01;
+
 public class AnimalOOP2 {
     public static void main(String[] args) {
         // 宣告並實例化

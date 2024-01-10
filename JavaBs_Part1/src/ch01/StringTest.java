@@ -1,3 +1,5 @@
+package JavaBs_Part1.src.ch01;
+
 public class StringTest {
     
     // String不是基本類型

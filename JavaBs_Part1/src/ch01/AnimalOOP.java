@@ -1,3 +1,5 @@
+package JavaBs_Part1.src.ch01;
+
 // 定義一個動物類別 class
 class Animal {
     String name; // 動物的姓名
